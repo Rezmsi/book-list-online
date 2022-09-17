@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-list-online/static/css/main.a525d206.css",
+    "main.js": "/book-list-online/static/js/main.abf29489.js",
+    "index.html": "/book-list-online/index.html",
+    "main.a525d206.css.map": "/book-list-online/static/css/main.a525d206.css.map",
+    "main.abf29489.js.map": "/book-list-online/static/js/main.abf29489.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a525d206.css",
+    "static/js/main.abf29489.js"
+  ]
+}
